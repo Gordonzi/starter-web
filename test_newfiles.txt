@@ -1,1 +1,0 @@
-It is just new test file to show how git tracks the files.
